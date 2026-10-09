@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="240" height="240" src="https://emsalsiz.tr/assets/teng/logo.png">
+  <img width="240" height="240" src="https://emsalsiz.tr/assets/teng/logobuyukorta.png">
 </p>
 
 ## About us
